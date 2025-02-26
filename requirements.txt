@@ -1,0 +1,14 @@
+langchain-text-splitters
+langchain-community
+langgraph
+langchain[groq]
+langchain-ollama
+langchain-pinecone
+langchain
+langchain_community
+langchain_core
+typing-extensions
+beautifulsoup4
+pinecone-client
+pinecone
+unstructured
